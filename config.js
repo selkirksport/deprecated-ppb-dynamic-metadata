@@ -3,12 +3,8 @@ export const config = {
   patterns: [
       {
           pattern: "/instructor/[^/]+",
-          metaDataEndpoint: "https://xeo6-2sgh-ehgj.n7.xano.io/api:8wD10mRd/event/{id}/meta"
+          metaDataEndpoint: "https://alvuagzviphwrdjreldb.supabase.co/functions/v1/teacher-metadata?slug_input={slug_input}"
       }
-    //   {
-    //       pattern: "/team/profile/[^/]+",
-    //       metaDataEndpoint: "https://xeo6-2sgh-ehgj.n7.xano.io/api:LjwxezTv/team/profile/{profile_id}/meta"
-    //   }
       // Add more patterns and their metadata endpoints as needed
   ]
 };
