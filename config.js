@@ -1,5 +1,5 @@
 export const config = {
-  domainSource: "https://www.playpickleball.com", // Your WeWeb app preview link
+  domainSource: "worker.playpickleball.com", // Your WeWeb app preview link
   patterns: [
       {
           pattern: "/instructor/[^/]+",
