@@ -1,4 +1,4 @@
-#Deprecated
+# Deprecated
 This project is deprecated, because we are migrating from weweb to a full code project using astro [PPB Frontend](https://github.com/selkirksport/playpickleball-frontend) and we won't need the reversy proxy to solve metadata issue anymore.
 
 # Cloudflare Worker for Dynamic Metadata in WeWeb SPA
