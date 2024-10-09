@@ -1,3 +1,6 @@
+#Deprecated
+This project is deprecated, because we are migrating from weweb to a full code project using astro [PPB Frontend](https://github.com/selkirksport/playpickleball-frontend) and we won't need the reversy proxy to solve metadata issue anymore.
+
 # Cloudflare Worker for Dynamic Metadata in WeWeb SPA
 
 This project demonstrates a Cloudflare Worker that acts as a reverse proxy server to dynamically fetch and modify metadata for WeWeb Single Page Applications (SPA). This solution is particularly useful for dynamic pages with URL parameters, such as event pages, where each page requires unique metadata.
